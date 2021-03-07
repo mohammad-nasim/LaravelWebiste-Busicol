@@ -1,2 +1,2 @@
 # busicolNew
-I am developing this free website for increase my skill on Laravel
+This website developed with laravel 7 for practice purpose :)
